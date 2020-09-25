@@ -1,1 +1,2 @@
-# CP This is the code for BreathFirstAlgorithm(BFS) named as minBFS_1.cpp
+minBFS_1.cpp ->This is the code for BreathFirstAlgorithm(BFS).
+stringHash.cpp->Creating string hashes
